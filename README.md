@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,22,25&height=220&section=header&text=OpenStream&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Modern%20Android%20Streaming%20Experience&descAlignY=60&descSize=20&strokeWidth=1.5&fontStyle=bold" width="100%"/>
-# 🎬 OpenStream
-
-### Modern Android Streaming Experience
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Fast+Streaming+Platform;Built+With+Jetpack+Compose;Modern+Android+Architecture;Media3+%2F+ExoPlayer+Powered;Smooth+UI+Experience" />
 
