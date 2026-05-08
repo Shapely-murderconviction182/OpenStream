@@ -2,14 +2,23 @@
 
 <div align="center">
 
-![Platform](https://img.shields.io/badge/platform-Android-green)
-![Language](https://img.shields.io/badge/language-Kotlin-purple)
-![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
-![Min SDK](https://img.shields.io/badge/minSDK-21-orange)
-![Architecture](https://img.shields.io/badge/architecture-Clean%20Architecture-red)
-![Status](https://img.shields.io/badge/status-In%20Development-yellow)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41b2F6dTF6M2Q4NTRuMXJ3YWk0eDJxbWVjZDJ1YWFkNG9jYm9iZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
 
-### A Modern Android Streaming Experience
+# 🎬 OpenStream
+
+### Modern Android Streaming Experience
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Fast+Streaming+Platform;Built+With+Jetpack+Compose;Modern+Android+Architecture;Media3+%2F+ExoPlayer+Powered;Smooth+UI+Experience" />
+
+<br>
+
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Media3](https://img.shields.io/badge/Media3-000000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=for-the-badge)
+
+<br>
 
 Fast • Minimal • Powerful • Scalable
 
@@ -17,106 +26,78 @@ Fast • Minimal • Powerful • Scalable
 
 ---
 
-# Overview
+# ✨ Overview
 
-OpenStream is a modern Android streaming platform built using Kotlin and Jetpack Compose with a strong focus on:
+OpenStream is a modern Android streaming platform engineered with:
 
-* Performance
-* Scalability
-* Clean UI/UX
-* Modular architecture
-* Smooth media playback
-* Offline-friendly architecture
-* Modern Android development practices
+- ⚡ High performance rendering
+- 🎨 Modern UI/UX
+- 🧩 Modular architecture
+- 📺 Smooth media playback
+- 🚀 Scalable infrastructure
+- 📦 Offline-ready foundation
+- 🛠 Modern Android best practices
 
-The project is designed to provide a premium streaming experience while maintaining a lightweight and optimized codebase.
-
----
-
-# Core Goals
-
-* Build a production-grade Android streaming application
-* Implement clean and scalable architecture
-* Deliver smooth playback performance
-* Support modular extension-based content systems
-* Maintain compatibility with Android 5+
-* Focus on responsiveness and reliability
-* Create a modern UI using Material Design principles
+The goal is to create a premium-level streaming experience with clean architecture and optimized performance.
 
 ---
 
-# Features
+# 🎥 Preview
 
-## Modern UI
+<div align="center">
 
-* Jetpack Compose based interface
-* Material Design components
-* Smooth animations and transitions
-* Responsive layouts
-* Dark mode support
-* Modern onboarding experience
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="90%" />
 
-## Streaming Engine
-
-* Media3 / ExoPlayer integration
-* Adaptive streaming support
-* Playback controls
-* Resume playback support
-* Buffer optimization
-* Playback state management
-
-## Architecture
-
-* Clean Architecture
-* MVVM pattern
-* Repository pattern
-* Dependency Injection
-* Modularized project structure
-* Scalable package organization
-
-## Performance
-
-* Optimized rendering
-* Efficient state management
-* Background task optimization
-* Memory-conscious implementation
-* Coroutine-based async handling
-
-## Data Layer
-
-* Room Database integration
-* Local caching
-* Offline-ready foundation
-* Structured data handling
-* Persistent playback state
-
-## Security & Stability
-
-* Gradle dependency management
-* Safe state handling
-* Crash reduction practices
-* Lifecycle-aware components
-* Structured error handling
+</div>
 
 ---
 
-# Tech Stack
+# 🚀 Features
 
-| Category             | Technology                |
-| -------------------- | ------------------------- |
-| Language             | Kotlin                    |
-| UI                   | Jetpack Compose           |
-| Architecture         | MVVM + Clean Architecture |
-| Database             | Room                      |
-| Async                | Kotlin Coroutines         |
-| Media Playback       | Media3 / ExoPlayer        |
-| Dependency Injection | Hilt / DI                 |
-| Networking           | Retrofit / OkHttp         |
-| Build System         | Gradle Kotlin DSL         |
+<div align="center">
+
+| 🎨 UI/UX | 📺 Streaming | 🏗 Architecture |
+|---|---|---|
+| Jetpack Compose | Media3 / ExoPlayer | MVVM |
+| Material Design | Adaptive Streaming | Clean Architecture |
+| Smooth Animations | Resume Playback | Repository Pattern |
+| Dark Mode | Playback Controls | Modular Structure |
+
+</div>
 
 ---
 
-# Project Structure
+# 🧠 Core Goals
+
+- Build a production-grade Android streaming application
+- Maintain Android 5+ compatibility
+- Deliver smooth playback performance
+- Create scalable modular architecture
+- Optimize responsiveness and reliability
+- Follow modern Android development standards
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+| Technology | Purpose |
+|---|---|
+| Kotlin | Primary Language |
+| Jetpack Compose | Modern UI |
+| Media3 / ExoPlayer | Video Playback |
+| Room Database | Local Storage |
+| Retrofit + OkHttp | Networking |
+| Coroutines | Async Processing |
+| Hilt / DI | Dependency Injection |
+| Gradle Kotlin DSL | Build System |
+
+</div>
+
+---
+
+# 📂 Project Structure
 
 ```text
 OpenStream/
@@ -124,8 +105,8 @@ OpenStream/
 ├── app/
 ├── library/
 ├── extensions/
-├── gradle/
 ├── docs/
+├── gradle/
 │
 ├── build.gradle.kts
 ├── settings.gradle.kts
@@ -134,48 +115,55 @@ OpenStream/
 
 ---
 
-# Current Development Status
+# 📱 Current Development Progress
 
-The project is currently under active development.
+## ✅ Completed
 
-Completed so far:
-
-* Core project setup
-* Compose UI foundation
-* Navigation structure
-* Onboarding system
-* Media foundation
-* Initial architecture implementation
-* Gradle optimization
-* Android device testing
-* Successful build validation
-
-Upcoming improvements:
-
-* Advanced streaming features
-* Enhanced search
-* Download system
-* Recommendation engine
-* Advanced settings
-* Extension ecosystem improvements
-* Performance refinements
+- Core Android project setup
+- Compose UI foundation
+- Navigation architecture
+- Onboarding screens
+- Initial streaming foundation
+- Build optimization
+- Real-device testing
+- Stable Gradle compilation
+- Media playback integration
 
 ---
 
-# Screenshots
+## 🔄 In Progress
 
-> Screenshots and previews will be added soon.
+- Advanced player features
+- Search improvements
+- Download system
+- Recommendation engine
+- Extension ecosystem
+- Performance optimization
 
 ---
 
-# Installation
+# 🖼 Screenshots
+
+<div align="center">
+
+| Home | Player | UI |
+|---|---|---|
+| <img src="https://placehold.co/250x500/111111/FFFFFF/png?text=Home+Screen" width="220"> | <img src="https://placehold.co/250x500/111111/FFFFFF/png?text=Player+Screen" width="220"> | <img src="https://placehold.co/250x500/111111/FFFFFF/png?text=Modern+UI" width="220"> |
+
+</div>
+
+---
+
+# ⚙ Installation
 
 ## Requirements
 
-* Android Studio
-* Android SDK 21+
-* Kotlin support enabled
-* Gradle installed
+- Android Studio
+- Android SDK 21+
+- Kotlin enabled
+- Gradle installed
+
+---
 
 ## Clone Repository
 
@@ -183,94 +171,104 @@ Upcoming improvements:
 git clone https://github.com/YOUR_USERNAME/OpenStream.git
 ```
 
-## Open Project
+---
 
-Open the project in Android Studio and allow Gradle sync to complete.
-
-## Run Application
+## Build Project
 
 ```bash
 ./gradlew assembleDebug
 ```
 
+---
+
+## Run Application
+
 Install the generated APK on your Android device.
 
 ---
 
-# Development Philosophy
+# 🧩 Development Philosophy
 
 OpenStream focuses on:
 
-* Clean maintainable code
-* Modern Android standards
-* Scalable architecture
-* High performance
-* Excellent user experience
-* Long-term maintainability
+- ✨ Clean maintainable code
+- 🚀 High performance
+- 🏗 Scalable architecture
+- 📱 Modern Android standards
+- 🎯 Excellent user experience
+- 🔒 Stability and reliability
 
 ---
 
-# Contribution
+# 🌍 Roadmap
 
-Contributions, suggestions, and improvements are welcome.
+## Upcoming Features
 
-If you would like to contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request
-
----
-
-# Important Notes
-
-This repository may still contain experimental implementations while development continues.
-
-Some modules/features are currently under active iteration and optimization.
+- 🎬 Subtitle support
+- 🌐 Multi-language support
+- 📥 Offline downloads
+- ☁ Cloud sync
+- 📺 Android TV support
+- 🤖 Smart recommendations
+- 📊 Performance analytics
+- 🔎 Advanced search system
 
 ---
 
-# Roadmap
+# 🤝 Contribution
 
-## Planned Features
+Contributions are welcome.
 
-* Advanced player controls
-* Subtitle support
-* Multi-language support
-* Offline downloads
-* Smart recommendations
-* Improved search system
-* Cloud sync
-* Account system
-* TV support
-* Tablet optimization
-* Performance analytics
-* Enhanced extension management
+```bash
+# Fork repository
+# Create feature branch
+# Commit changes
+# Push branch
+# Open Pull Request
+```
 
 ---
 
-# License
+# ⚠ Important Notice
 
-This project is intended for educational and development purposes.
+This project is currently under active development.
 
-Please ensure compliance with all applicable laws, APIs, services, and content usage policies.
+Some features and modules may still be experimental or undergoing optimization.
 
 ---
 
-# Author
+# 👨‍💻 Author
 
-### Kevin J T
+<div align="center">
 
-Android Developer • QA Enthusiast • Modern Android Architecture Learner
+## Kevin J T
+
+Android Developer • QA Enthusiast • Modern Android Learner
+
+<br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+</div>
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository  
+🍴 Fork the project  
+🚀 Follow development updates
 
 ---
 
 <div align="center">
 
-### OpenStream
+# OpenStream
 
-Modern Streaming Experience for Android
+### Built With ❤️ Using Kotlin & Jetpack Compose
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
