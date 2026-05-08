@@ -142,7 +142,7 @@ OpenStream/
 
 | Content Choosing | Onboarding | Home |
 |---|---|---|
-| <img src="https://postimg.cc/gw6PT6Lv" width="220"> | <img src="https://postimg.cc/7GGbX6wd" width="220"> | <img src="https://postimg.cc/hzLRSWrP" width="220"> |
+| <img src="https://i.postimg.cc/jjMdCHsk/Screenshot-20260508-185753-Open-Stream.jpg" width="220"> | <img src="https://postimg.cc/7GGbX6wd" width="220"> | <img src="https://postimg.cc/hzLRSWrP" width="220"> |
 
 </div>
 
@@ -211,9 +211,9 @@ OpenStream focuses on:
 
 # 🤝 Contribution
 
-Contributions, suggestions, and improvements are welcome.
+Contributions, suggestions, and improvements are welcomed.
 
-If you would like to contribute:
+If you would like to Contribute:
 
 ```bash
 # Fork repository
