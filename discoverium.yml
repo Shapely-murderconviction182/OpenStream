@@ -1,0 +1,11 @@
+name: OpenStream
+version: 1.0.0
+type: android-app
+language: kotlin
+framework: jetpack-compose
+architecture: mvvm-clean
+modules: [app, library, extensions]
+features: [glassmorphism-ui, hilt-di, navigation-compose, datastore-theme, coroutines]
+min_sdk: 21
+target_sdk: 35
+package: com.openstream.app
