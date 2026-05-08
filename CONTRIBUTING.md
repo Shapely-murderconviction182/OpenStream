@@ -96,10 +96,8 @@ Please avoid:
 
 # ❤️ Thank You
 
-Every contribution helps improve OpenStream and is greatly appreciated.
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQYx9X6A4w/giphy.gif" width="250"/>
+Every contribution helps improve OpenStream and is greatly appreciated.
 
 </div>
