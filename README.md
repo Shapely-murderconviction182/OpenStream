@@ -1,9 +1,6 @@
-# OpenStream
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW41b2F6dTF6M2Q4NTRuMXJ3YWk0eDJxbWVjZDJ1YWFkNG9jYm9iZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,22,25&height=220&section=header&text=OpenStream&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Modern%20Android%20Streaming%20Experience&descAlignY=60&descSize=20&strokeWidth=1.5&fontStyle=bold" width="100%"/>
 # 🎬 OpenStream
 
 ### Modern Android Streaming Experience
@@ -46,7 +43,7 @@ The goal is to create a premium-level streaming experience with clean architectu
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="90%" />
+# Previews will be added soon.
 
 </div>
 
@@ -146,9 +143,9 @@ OpenStream/
 
 <div align="center">
 
-| Home | Player | UI |
+| Content Choosing | Onboarding | Home |
 |---|---|---|
-| <img src="https://placehold.co/250x500/111111/FFFFFF/png?text=Home+Screen" width="220"> | <img src="https://placehold.co/250x500/111111/FFFFFF/png?text=Player+Screen" width="220"> | <img src="https://placehold.co/250x500/111111/FFFFFF/png?text=Modern+UI" width="220"> |
+| <img src="https://postimg.cc/gw6PT6Lv" width="220"> | <img src="https://postimg.cc/7GGbX6wd" width="220"> | <img src="https://postimg.cc/hzLRSWrP" width="220"> |
 
 </div>
 
@@ -217,7 +214,9 @@ OpenStream focuses on:
 
 # 🤝 Contribution
 
-Contributions are welcome.
+Contributions, suggestions, and improvements are welcome.
+
+If you would like to contribute:
 
 ```bash
 # Fork repository
@@ -266,8 +265,6 @@ If you like this project:
 <div align="center">
 
 # OpenStream
-
-### Built With ❤️ Using Kotlin & Jetpack Compose
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
