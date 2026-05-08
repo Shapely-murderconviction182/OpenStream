@@ -142,7 +142,7 @@ OpenStream/
 
 | Content Choosing | Onboarding | Home |
 |---|---|---|
-| <img src="https://i.postimg.cc/jjMdCHsk/Screenshot-20260508-185753-Open-Stream.jpg" width="220"> | <img src="https://postimg.cc/7GGbX6wd" width="220"> | <img src="https://postimg.cc/hzLRSWrP" width="220"> |
+| <img src="https://i.postimg.cc/jjMdCHsk/Screenshot-20260508-185753-Open-Stream.jpg" width="220"> | <img src="https://i.postimg.cc/rmgWV0bV/Screenshot-20260508-185800-Open-Stream.jpg" width="220"> | <img src="https://i.postimg.cc/ZRgbxJv3/Screenshot-20260508-185813-Open-Stream.jpg" width="220"> |
 
 </div>
 
