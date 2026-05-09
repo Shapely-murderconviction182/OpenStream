@@ -10,7 +10,6 @@ plugins {
 android {
     namespace  = "com.openstream.app"
     compileSdk = 35
-
     defaultConfig {
         applicationId = "com.openstream.app"
         minSdk        = 21
@@ -19,18 +18,13 @@ android {
         versionName   = "1.0.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
-
     buildTypes {
         release {
             isMinifyEnabled = true
-            proguardFiles(
-                getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pro"
-            )
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
         debug { isDebuggable = true }
     }
-
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
@@ -42,7 +36,6 @@ android {
 dependencies {
     implementation(project(":library"))
     implementation(project(":extensions"))
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.lifecycle.viewmodel)
@@ -69,6 +62,12 @@ dependencies {
     implementation(libs.retrofit.kotlinx.converter)
     implementation(libs.coil.compose)
     implementation(libs.androidx.startup)
-
+    // Media3
+    implementation(libs.media3.exoplayer)
+    implementation(libs.media3.exoplayer.hls)
+    implementation(libs.media3.ui)
+    implementation(libs.media3.session)
+    // Extended icons (Download, Pause, PictureInPicture, Replay etc.)
+    implementation(libs.material.icons.extended)
     debugImplementation(libs.androidx.ui.tooling)
 }
